@@ -24,7 +24,8 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
 }
-
+//tes
+//code
 export const viewport: Viewport = {
   colorScheme: 'light dark',
   themeColor: [
